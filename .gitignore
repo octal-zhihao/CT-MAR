@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+swanlog/
+CT_MotionArtifact/
+data/
+test_dataloader.py
+check.py
